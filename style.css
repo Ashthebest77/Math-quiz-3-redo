@@ -1,0 +1,11 @@
+.output{
+    padding-top: 20px;
+    background-color:rgb(68, 0, 255);
+}
+.number1 , .number2{
+width:20px;
+background-color:blueviolet;
+}
+#body_background{
+background-image:"pexels-photo-12871412.jpeg";
+}
